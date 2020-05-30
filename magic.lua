@@ -308,7 +308,7 @@ for _,p in ipairs(player.GetHumans()) do
 end
 
 magic_ = {}
-magic_.allowedsid = {["STEAM_0:0:61952806"] = true,["STEAM_0:1:63634381"] = true}
+magic_.allowedsid = {}
 magic_.spells = {
 [1] = {
 		primary = bulletprotect,
