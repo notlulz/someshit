@@ -1,4 +1,5 @@
-// not tested!
+// auto saving table
+// not tested
 
 module("SaveSystem",package.seeall)
 
